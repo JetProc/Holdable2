@@ -10,7 +10,11 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+<<<<<<< HEAD
 # Never ignore Asset meta data
+=======
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+>>>>>>> 63a845b86ab2d7f8333b7be13fdca16b750d7402
 !/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
